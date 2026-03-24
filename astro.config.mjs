@@ -5,4 +5,7 @@ export default defineConfig({
   output: "static",
   adapter: netlify(),
   plugins: ["prettier-plugin-astro"],
+  devToolbar: {
+    enabled: false,
+  }
 });
