@@ -30,7 +30,8 @@
     ]
   },
   "dependencies": {
-    "astro": "^6.0.8"
+    "astro": "^6.0.8",
+    "wrangler": "^4.120.0"
   },
   "devDependencies": {
     "@biomejs/biome": "^2.5.7",
