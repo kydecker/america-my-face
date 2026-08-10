@@ -1,9 +1,11 @@
 # build output
 dist/
+
 # generated types
 .astro/
 .vercel/
 .netlify/
+.wrangler/
 
 # dependencies
 node_modules/

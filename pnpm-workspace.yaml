@@ -1,0 +1,6 @@
+packages:
+  - america-my-face
+allowBuilds:
+  esbuild: false
+  sharp: false
+  simple-git-hooks: true
